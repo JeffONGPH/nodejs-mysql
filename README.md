@@ -2,9 +2,9 @@
 ## An Amazon-like storefront created using MySQL & Node.js 
 
 node.js package installations, run following codes in terminal
--npm install require
--npm install inquirer
--npm install mysql
+- npm install require
+- npm install inquirer
+- npm install mysql
 
 1. Customer View 
  - This part of the app accepts orders from customers and update store's stock quantity for a particular item.
