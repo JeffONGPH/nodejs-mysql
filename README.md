@@ -23,22 +23,22 @@ node.js package installations, run following codes in terminal
     ![alt text](https://github.com/JeffONGPH/nodejs-mysql/blob/master/screenshots/insufficient-quantity.png)
     
     
-2. Manager View 
--Build for the manager, this app allows inventory management and update through four actions from its menu list.
+2. Manager View (bamazonManager.js)
+- Build for the manager, this app allows inventory management and update through four actions from its menu list.
 ![alt text](https://github.com/JeffONGPH/nodejs-mysql/blob/master/screenshots/menu.png)
 #1 View all products 
 ![alt text](https://github.com/JeffONGPH/nodejs-mysql/blob/master/screenshots/viewproducts.png)
 
 #2 View Low inventories 
-    -shows items with quantities less than five 
+    - shows items with quantities less than five 
     ![alt text](https://github.com/JeffONGPH/nodejs-mysql/blob/master/screenshots/low.png)
 
 #3 Restock inventory 
-    -add to existing items 
+    - add to existing items 
     ![alt text](https://github.com/JeffONGPH/nodejs-mysql/blob/master/screenshots/add.png)
 
 #4 Add new items 
-    -expand your list of items for sale!
+    - expand your list of items for sale!
      ![alt text](https://github.com/JeffONGPH/nodejs-mysql/blob/master/screenshots/newproduct.png)
      
      
