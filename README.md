@@ -18,8 +18,8 @@ node.js package installations, run following codes in terminal
     ![alt text](https://github.com/JeffONGPH/nodejs-mysql/blob/master/screenshots/questions.png)
     
 -If the item is still available in stock, it will display the total cost and quantity 
-![alt text](https://github.com/JeffONGPH/nodejs-mysql/blob/master/screenshots/purchase%20succesful.png)
+![alt text](https://github.com/JeffONGPH/nodejs-mysql/blob/master/screenshots/purchase-succesful.png)
     -else 
-    ![alt text](https://github.com/JeffONGPH/nodejs-mysql/blob/master/screenshots/insufficient%20quantity.png)
+    ![alt text](https://github.com/JeffONGPH/nodejs-mysql/blob/master/screenshots/insufficient-quantity.png)
     
     *
