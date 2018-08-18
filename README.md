@@ -12,7 +12,7 @@ node.js package installations, run following codes in terminal
 - First, the app displays a list of available items for sale, their costs and current inventory.
 ![alt text](https://github.com/JeffONGPH/nodejs-mysql/blob/master/screenshots/item%20List.png)
 
-- Then its asks for: 
+- Then it asks for: 
     -ID of desired item 
     -quantity the user wishes to purchase 
     ![alt text](https://github.com/JeffONGPH/nodejs-mysql/blob/master/screenshots/questions.png)
