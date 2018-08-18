@@ -6,7 +6,7 @@ node.js package installations, run following codes in terminal
 - npm install inquirer
 - npm install mysql
 
-1. Customer View 
+1. Customer View - bamazonCustomer.js
  - This part of the app accepts orders from customers and update store's stock quantity for a particular item.
 
  - First, the app displays a list of available items for sale, their costs and current inventory.
